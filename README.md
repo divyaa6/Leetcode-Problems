@@ -32,3 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/divyaa6/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
+# Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/divyaa6/Leetcode-Problems/tree/master/0595-big-countries) |
