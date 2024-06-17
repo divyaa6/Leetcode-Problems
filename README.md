@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/divyaa6/Leetcode-Problems/tree/master/0075-sort-colors) |
+| [0633-sum-of-square-numbers](https://github.com/divyaa6/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/divyaa6/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
 # Counting
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/divyaa6/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/divyaa6/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -56,3 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0502-ipo](https://github.com/divyaa6/Leetcode-Problems/tree/master/0502-ipo) |
+# Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/divyaa6/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
