@@ -82,11 +82,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/divyaa6/Leetcode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/divyaa6/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/divyaa6/Leetcode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/divyaa6/Leetcode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/divyaa6/Leetcode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/divyaa6/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+## Sorting
+|  |
+| ------- |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/divyaa6/Leetcode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 <!---LeetCode Topics End-->
