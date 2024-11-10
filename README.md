@@ -129,4 +129,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/divyaa6/Leetcode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/divyaa6/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/divyaa6/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/divyaa6/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
