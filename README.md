@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [1250-longest-common-subsequence](https://github.com/divyaa6/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/divyaa6/Leetcode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Counting
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/divyaa6/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/divyaa6/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0213-house-robber-ii](https://github.com/divyaa6/Leetcode-Problems/tree/master/0213-house-robber-ii) |
+| [1250-longest-common-subsequence](https://github.com/divyaa6/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
