@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/divyaa6/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/divyaa6/Leetcode-Problems/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/divyaa6/Leetcode-Problems/tree/master/0213-house-robber-ii) |
+| [0542-01-matrix](https://github.com/divyaa6/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0792-binary-search](https://github.com/divyaa6/Leetcode-Problems/tree/master/0792-binary-search) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/divyaa6/Leetcode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/divyaa6/Leetcode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/divyaa6/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/divyaa6/Leetcode-Problems/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/divyaa6/Leetcode-Problems/tree/master/0213-house-robber-ii) |
+| [0542-01-matrix](https://github.com/divyaa6/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [1250-longest-common-subsequence](https://github.com/divyaa6/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
 ## Memoization
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0063-unique-paths-ii](https://github.com/divyaa6/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/divyaa6/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
+| [0542-01-matrix](https://github.com/divyaa6/Leetcode-Problems/tree/master/0542-01-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -196,4 +199,5 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/divyaa6/Leetcode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/divyaa6/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0542-01-matrix](https://github.com/divyaa6/Leetcode-Problems/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
