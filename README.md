@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/divyaa6/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/divyaa6/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/divyaa6/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0801-is-graph-bipartite](https://github.com/divyaa6/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/divyaa6/Leetcode-Problems/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
@@ -207,10 +208,16 @@ A collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/divyaa6/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/divyaa6/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/divyaa6/Leetcode-Problems/tree/master/0542-01-matrix) |
+| [0801-is-graph-bipartite](https://github.com/divyaa6/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/divyaa6/Leetcode-Problems/tree/master/1073-number-of-enclaves) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/divyaa6/Leetcode-Problems/tree/master/0130-surrounded-regions) |
+| [0801-is-graph-bipartite](https://github.com/divyaa6/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/divyaa6/Leetcode-Problems/tree/master/1073-number-of-enclaves) |
+## Graph
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/divyaa6/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
