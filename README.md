@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/divyaa6/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/divyaa6/Leetcode-Problems/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/divyaa6/Leetcode-Problems/tree/master/0130-surrounded-regions) |
+| [0169-majority-element](https://github.com/divyaa6/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0213-house-robber-ii](https://github.com/divyaa6/Leetcode-Problems/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/divyaa6/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0792-binary-search](https://github.com/divyaa6/Leetcode-Problems/tree/master/0792-binary-search) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/divyaa6/Leetcode-Problems/tree/master/0169-majority-element) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/divyaa6/Leetcode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/divyaa6/Leetcode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/divyaa6/Leetcode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/divyaa6/Leetcode-Problems/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/divyaa6/Leetcode-Problems/tree/master/0169-majority-element) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/divyaa6/Leetcode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/divyaa6/Leetcode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/divyaa6/Leetcode-Problems/tree/master/0169-majority-element) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/divyaa6/Leetcode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Math
 |  |
@@ -230,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/divyaa6/Leetcode-Problems/tree/master/0207-course-schedule) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/divyaa6/Leetcode-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
