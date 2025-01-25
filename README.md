@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divyaa6/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/divyaa6/Leetcode-Problems/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/divyaa6/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/divyaa6/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/divyaa6/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divyaa6/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/divyaa6/Leetcode-Problems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/divyaa6/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/divyaa6/Leetcode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/divyaa6/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
