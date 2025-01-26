@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/divyaa6/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/divyaa6/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/divyaa6/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/divyaa6/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/divyaa6/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/divyaa6/Leetcode-Problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyaa6/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/divyaa6/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/divyaa6/Leetcode-Problems/tree/master/0169-majority-element) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/divyaa6/Leetcode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/divyaa6/Leetcode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0063-unique-paths-ii](https://github.com/divyaa6/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/divyaa6/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/divyaa6/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/divyaa6/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/divyaa6/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [1073-number-of-enclaves](https://github.com/divyaa6/Leetcode-Problems/tree/master/1073-number-of-enclaves) |
