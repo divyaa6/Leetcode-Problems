@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/divyaa6/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/divyaa6/Leetcode-Problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyaa6/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/divyaa6/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/divyaa6/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/divyaa6/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0213-house-robber-ii](https://github.com/divyaa6/Leetcode-Problems/tree/master/0213-house-robber-ii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/divyaa6/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/divyaa6/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/divyaa6/Leetcode-Problems/tree/master/0169-majority-element) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/divyaa6/Leetcode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/divyaa6/Leetcode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/divyaa6/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/divyaa6/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0801-is-graph-bipartite](https://github.com/divyaa6/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/divyaa6/Leetcode-Problems/tree/master/1073-number-of-enclaves) |
