@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/divyaa6/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/divyaa6/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/divyaa6/Leetcode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/divyaa6/Leetcode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/divyaa6/Leetcode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/divyaa6/Leetcode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
@@ -158,12 +159,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/divyaa6/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/divyaa6/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [1250-longest-common-subsequence](https://github.com/divyaa6/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/divyaa6/Leetcode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2032-largest-odd-number-in-string](https://github.com/divyaa6/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/divyaa6/Leetcode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/divyaa6/Leetcode-Problems/tree/master/0169-majority-element) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/divyaa6/Leetcode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/divyaa6/Leetcode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Math
 |  |
