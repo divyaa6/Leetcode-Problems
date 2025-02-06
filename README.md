@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/divyaa6/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/divyaa6/Leetcode-Problems/tree/master/0792-binary-search) |
 | [1073-number-of-enclaves](https://github.com/divyaa6/Leetcode-Problems/tree/master/1073-number-of-enclaves) |
+| [1364-tuple-with-same-product](https://github.com/divyaa6/Leetcode-Problems/tree/master/1364-tuple-with-same-product) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/divyaa6/Leetcode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/divyaa6/Leetcode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/divyaa6/Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/divyaa6/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/divyaa6/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/divyaa6/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [1364-tuple-with-same-product](https://github.com/divyaa6/Leetcode-Problems/tree/master/1364-tuple-with-same-product) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/divyaa6/Leetcode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/divyaa6/Leetcode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/divyaa6/Leetcode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/divyaa6/Leetcode-Problems/tree/master/0169-majority-element) |
+| [1364-tuple-with-same-product](https://github.com/divyaa6/Leetcode-Problems/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/divyaa6/Leetcode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/divyaa6/Leetcode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Math
