@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/divyaa6/Leetcode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/divyaa6/Leetcode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/divyaa6/Leetcode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2434-design-a-number-container-system](https://github.com/divyaa6/Leetcode-Problems/tree/master/2434-design-a-number-container-system) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/divyaa6/Leetcode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/divyaa6/Leetcode-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Sliding Window
@@ -289,4 +290,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/divyaa6/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/divyaa6/Leetcode-Problems/tree/master/2434-design-a-number-container-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/divyaa6/Leetcode-Problems/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/divyaa6/Leetcode-Problems/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
