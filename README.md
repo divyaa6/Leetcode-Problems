@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/divyaa6/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/divyaa6/Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/divyaa6/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/divyaa6/Leetcode-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/divyaa6/Leetcode-Problems/tree/master/3447-clear-digits) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/divyaa6/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [1250-longest-common-subsequence](https://github.com/divyaa6/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/divyaa6/Leetcode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/divyaa6/Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/divyaa6/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/divyaa6/Leetcode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3447-clear-digits](https://github.com/divyaa6/Leetcode-Problems/tree/master/3447-clear-digits) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/divyaa6/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/divyaa6/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/divyaa6/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/divyaa6/Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/divyaa6/Leetcode-Problems/tree/master/3447-clear-digits) |
 ## Tree
 |  |
