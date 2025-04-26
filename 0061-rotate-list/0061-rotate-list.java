@@ -34,14 +34,12 @@ class Solution {
             
             if(k==1){
                 prev=temp;
-                System.out.println(prev.val);
             }
             if(temp.next==null){
                 k=o%(n+1);
                 if(k==0){
                     return rev(head);
                 }
-                System.out.println(k);
                 temp=head;
             }
             else{
@@ -54,9 +52,7 @@ class Solution {
             prev.next=null;
 
         ListNode newhead=rev(head);
-        System.out.println(temp.val);
         ListNode sechead=rev(temp);
-        //System.out.println(sechead.val);
         head.next=sechead;
         return newhead;
 
