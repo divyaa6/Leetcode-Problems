@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/divyaa6/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/divyaa6/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/divyaa6/Leetcode-Problems/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/divyaa6/Leetcode-Problems/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/divyaa6/Leetcode-Problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyaa6/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/divyaa6/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
@@ -385,4 +386,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/divyaa6/Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/divyaa6/Leetcode-Problems/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/divyaa6/Leetcode-Problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
