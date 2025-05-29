@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/divyaa6/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/divyaa6/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/divyaa6/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/divyaa6/Leetcode-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/divyaa6/Leetcode-Problems/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/divyaa6/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/divyaa6/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/divyaa6/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/divyaa6/Leetcode-Problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyaa6/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/divyaa6/Leetcode-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/divyaa6/Leetcode-Problems/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/divyaa6/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [1250-longest-common-subsequence](https://github.com/divyaa6/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
