@@ -7,7 +7,6 @@ class Solution {
 
         for(int i=1;i<n;i++){
             left[i]=left[i-1]*nums[i];
-            System.out.println(left[i]);
         }
         int right=1;
         for(int i=n-1;i>0;i--){
