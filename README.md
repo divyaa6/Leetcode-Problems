@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/divyaa6/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/divyaa6/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/divyaa6/Leetcode-Problems/tree/master/0792-binary-search) |
+| [0898-transpose-matrix](https://github.com/divyaa6/Leetcode-Problems/tree/master/0898-transpose-matrix) |
 | [1073-number-of-enclaves](https://github.com/divyaa6/Leetcode-Problems/tree/master/1073-number-of-enclaves) |
 | [1364-tuple-with-same-product](https://github.com/divyaa6/Leetcode-Problems/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/divyaa6/Leetcode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/divyaa6/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0898-transpose-matrix](https://github.com/divyaa6/Leetcode-Problems/tree/master/0898-transpose-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/divyaa6/Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/divyaa6/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/divyaa6/Leetcode-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/divyaa6/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/divyaa6/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/divyaa6/Leetcode-Problems/tree/master/0542-01-matrix) |
+| [0898-transpose-matrix](https://github.com/divyaa6/Leetcode-Problems/tree/master/0898-transpose-matrix) |
 | [1073-number-of-enclaves](https://github.com/divyaa6/Leetcode-Problems/tree/master/1073-number-of-enclaves) |
 ## Stack
 |  |
