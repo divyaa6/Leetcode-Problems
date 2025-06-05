@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/divyaa6/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divyaa6/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/divyaa6/Leetcode-Problems/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/divyaa6/Leetcode-Problems/tree/master/0035-search-insert-position) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/divyaa6/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/divyaa6/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/divyaa6/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/divyaa6/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
