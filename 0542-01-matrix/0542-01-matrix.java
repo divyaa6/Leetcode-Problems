@@ -1,51 +1,53 @@
 class Solution {
-    class Pair{
+    public class Node{
         int x,y,step;
-        Pair(int i,int j,int s){
-            this.x=i;
-            this.y=j;
-            this.step=s;
+        Node(int x,int y,int step){
+            this.x=x;
+            this.y=y;
+            this.step=step;
         }
+
     }
     public int[][] updateMatrix(int[][] mat) {
         int m=mat.length;
         int n=mat[0].length;
+
+        Queue<Node> q=new LinkedList<Node>();
         int vis[][]=new int[m][n];
         int dis[][]=new int[m][n];
-        Queue<Pair> q=new LinkedList<>();
 
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 if(mat[i][j]==0){
-                    q.add(new Pair(i,j,0));
+                    q.add(new Node(i,j,0));
                     vis[i][j]=1;
                 }
-                else
-                vis[i][j]=0;
-            }
-        }
-
-        int drow[]={-1,0,1,0};
-        int dcol[]={0,1,0,-1};
-
-        while(!q.isEmpty()){
-            int first=q.peek().x;
-            int second=q.peek().y;
-            int step=q.peek().step;
-            q.remove();
-            dis[first][second]=step;
-
-            for(int i=0;i<4;i++){
-                int a=first+drow[i];
-                int b=second+dcol[i];
-
-                if(a>=0 && a<m && b>=0 && b<n && vis[a][b]==0){
-                    vis[a][b]=1;
-                    q.add(new Pair(a,b,step+1));
+                else{
+                    vis[i][j]=0;
                 }
             }
         }
+        int drow[]={-1,0,1,0};
+        int dcol[]={0,1,0,-1};
+        while(!q.isEmpty()){
+            int start=q.peek().x;
+            int end=q.peek().y;
+            int cost=q.peek().step;
+            q.remove();
 
-    return dis; 
+            dis[start][end]=cost;
+            for(int i=0;i<4;i++){
+                int a=start+drow[i];
+                int b=end+dcol[i];
+
+                if(a>=0 && b>=0 && a<m && b<n && vis[a][b]==0){
+                    vis[a][b]=1;
+                    q.add(new Node(a,b,cost+1));
+                }
+            }
+
+        }
+        return dis;
+        
     }
 }
