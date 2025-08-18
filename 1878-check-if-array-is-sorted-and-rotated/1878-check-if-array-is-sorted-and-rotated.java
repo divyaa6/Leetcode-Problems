@@ -1,6 +1,7 @@
 class Solution {
     public boolean check(int[] nums) {
-        int c=0,n=nums.length;
+        int n=nums.length;
+        int c=0;
 
         for(int i=0;i<n;i++){
             if(nums[i]>(nums[(i+1)%n]))
@@ -10,7 +11,6 @@ class Solution {
             return false;
         }
         return true;
-        
         
     }
 }
