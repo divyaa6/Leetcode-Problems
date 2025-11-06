@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/divyaa6/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/divyaa6/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/divyaa6/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/divyaa6/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/divyaa6/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/divyaa6/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/divyaa6/Leetcode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0025-reverse-nodes-in-k-group](https://github.com/divyaa6/Leetcode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/divyaa6/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/divyaa6/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/divyaa6/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/divyaa6/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [2050-count-good-numbers](https://github.com/divyaa6/Leetcode-Problems/tree/master/2050-count-good-numbers) |
 ## Merge Sort
@@ -421,5 +423,6 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0078-subsets](https://github.com/divyaa6/Leetcode-Problems/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/divyaa6/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/divyaa6/Leetcode-Problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
